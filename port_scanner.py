@@ -7,7 +7,7 @@ if len(sys.argv) == 2:
     # translate hostname to IPv4
     target = socket.gethostbyname(sys.argv[1]) 
 else:
-    print("Invalid ammount of Argument")
+    print("give IP to be scan")
   
 # Add Banner 
 print("-" * 50)
