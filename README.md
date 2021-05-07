@@ -1,7 +1,7 @@
 # Python For Hacking
 
 ## Mac Changer
-command# `sudo python3 network_sniffer.py {host-ip}`
+command# `python3 mac_changer.py --interface {inerface} --mac {new mac}`
 ## Port Scanner 
 command# `python3 port_scanner.py {ip-to-scan}`
 ## Network Sniffer 
