@@ -1,0 +1,7 @@
+requests
+argparse
+scapy
+mechanize
+fabric3
+
+
