@@ -35,5 +35,5 @@ except socket.gaierror:
         print("\n Hostname Could Not Be Resolved !!!!")
         sys.exit()
 except socket.error:
-        print("\nServer not responding !!!!")
+        print("\n Server not responding !!!!")
         sys.exit()
